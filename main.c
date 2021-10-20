@@ -16,7 +16,7 @@ int main(int argc, char** argv)
     /* In a never ending loop */
     while (1) {
 
-    /* Output our prompt */
+    /* Output our prompt *//
     fputs("lispy> ", stdout);
 
     /* Read a line of user input of maximum size 2048 */
